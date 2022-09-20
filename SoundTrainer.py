@@ -57,6 +57,16 @@ sova_button = Button(window,image=sova)
 viper_button = Button(window,image=viper)
 yoru_button = Button(window,image=yoru)
 
+# Omen DONE
+# Phoenix DONE
+# Raze DONE
+# Reyna DONE
+# Sage DONE
+# Skye DONE
+# Sova DONE
+# Viper
+# Yoru
+
 correct_incorrect_text = Label(window,text='Correct')
 correct_incorrect_text.config(font=('Monospace',25))
 correct_incorrect_text.config(bg='#ff6200')
