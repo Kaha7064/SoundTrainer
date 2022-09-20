@@ -3,7 +3,9 @@
 # This is a program to train players to associate agent footsteps with agents.
 
 This should run on Windows systems from the .exe file out of the box.
-##Instructions
+
+## Instructions
+
 Download the zip file from https://github.com/Kaha7064/SoundTrainer, click the green box "Download zip"
 Extract the zip file to your computer
 Check to make sure VLC Media Player is installed (Link: https://www.videolan.org/). This is what plays the mp3 files
